@@ -1,6 +1,6 @@
+import importlib
 import yaml
 import flask
-import importlib
 
 APP = flask.Flask(__name__)
 
